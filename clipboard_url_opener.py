@@ -1,5 +1,6 @@
-#pip install pyperclip
-#This code listens to the clipboard and automatically opens any newly copied URL in your default web browser.
+# pip install pyperclip
+# clipboard_url_opener listens to the clipboard and automatically opens any newly copied URL in default web browser.
+
 
 import pyperclip
 import webbrowser
